@@ -1,4 +1,4 @@
 rosalind_problems
 =================
 
-Problems hosted on the Rosalind.info website, solved in C#.
+Solution of problems hosted on the Rosalind.info website, solved in C#.
